@@ -9,8 +9,6 @@ Graficas por computadora
 Principal
 Jorge Suchite 
 Carnet 15293
-08/11/2020
-Proyecto No. 3 Ray Casting
 """
 pygame.init()
 pygame.display.set_caption(' Blizzard Inc.')
